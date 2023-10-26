@@ -6,6 +6,8 @@ imgui.ini
 
 bin
 bin-int
+*.vcxproj
+*.vcxproj.user
 
 ## General build artifacts
 *.o
